@@ -1,0 +1,44 @@
+
+.body{
+    background-color:#f7c3c3 ;
+}    
+
+.container-fluid{
+    background-color: bisque;
+}
+.in-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:x-large;
+}
+.scre{
+    background-color:rgb(144, 200, 181);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:normal;
+    font-weight: 800;
+    font-size: xx-large;
+    height: 500px;
+
+}
+.card card-body{
+    background-color: #f49494;
+}
+.register{
+    background-color: rgb(158, 155, 219);
+    /*display: inline-block;*/
+    transition: width 2s;
+}
+.register:hover{
+    /*padding: 80px;*/
+    padding: 0%;
+    background-color: rgb(123, 218, 79);
+    width: 800px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
